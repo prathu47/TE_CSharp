@@ -8,7 +8,6 @@ namespace TE_CSharp
 {
     struct EmployeeDetails
     {
-        //Variables
         public int empid;
         public string empname;
         /// <summary>
@@ -37,7 +36,7 @@ namespace TE_CSharp
         /// </summary>
         public static void Main()
         {
-            EmployeeDetails empDetails = new EmployeeDetails(100, "John");
+            EmployeeDetails empDetails = new EmployeeDetails(13110, "prathusha");
             empDetails.DisplayDetails();
         }
     }

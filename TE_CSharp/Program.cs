@@ -18,11 +18,11 @@ namespace Basic_Concepts
             //Console->class, WriteLine->method
             Console.WriteLine("Welcome to C-Sharp");
             //Datatypes
-            int a = 20;
-            double b = 12.34;
+            int a = 15;
+            double b = 22.34;
             char c = 'a';
             bool d = true;
-            string s = "John";
+            string s = "prathusha";
             //Display the output in various ways
             Console.WriteLine(a);
             //Concatenation
